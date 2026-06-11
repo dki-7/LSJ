@@ -1,6 +1,8 @@
 # LSJ
 The Three Principles of LSJ: Infinite Expansion, Dynamic Evolution, and Real-World Integration
 
+Read the paper online:
+https://dki-7.github.io/LSJ/
 
 ## License and Usage
 
