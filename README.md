@@ -4,6 +4,11 @@ The Three Principles of LSJ: Infinite Expansion, Dynamic Evolution, and Real-Wor
 Read the paper online:
 https://dki-7.github.io/LSJ/three-principles-of-lsj/
 
+State Grounded Masked Generation：now is very draft verson
+
+Read the papar online:
+https://dki-7.github.io/LSJ/state-grounded-masked-generation/
+
 ## License and Usage
 
 The paper is distributed on arXiv under the arXiv.org perpetual, non-exclusive license to distribute this article.
